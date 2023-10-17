@@ -1,0 +1,95 @@
+* {
+    font-family: "Quicksand";
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+  #header11 {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://stone-horn-a78.notion.site/image/https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1161920241576726588%2F1163798379411812363%2Fsoup.jpg%3Fex%3D6540e2b3%26is%3D652e6db3%26hm%3D418edbde8a5f8794c853a400d19081c6443fd467bbab566268926860c2e28df2%26?table=block&id=7ae1c28e-accd-4c21-8c68-9393c7dbb2f1&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=2000&userId=&cache=v2);
+    background-size: cover;
+    background-position: center;
+    border-bottom: 8px solid black;
+  }
+  
+  #header1 {
+    text-align: center;
+    color: white;
+    font-size: 5rem;
+    margin-top: 200px;
+    letter-spacing: 10px;
+  }
+  #imgSoup {
+    text-align: center;
+    margin-top: -170px;
+    overflow-y: hidden;
+  }
+  #Soup {
+    width: 350px;
+    transition: transform ease-in-out 2s;
+  }
+  #Soup:hover {
+    transform: rotate(180deg);
+  }
+  .S {
+    margin: 50px 350px;
+  }
+  #S1 {
+    text-align: left;
+  }
+  
+  .p1 {
+    font-weight: bold;
+    display: inline;
+    width: 50%;
+    font-size: x-large;
+  }
+  .ImageTime {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  #ImageTime2 {
+    width: 300px;
+  }
+  
+  .hr1 {
+    border-color: black;
+    height: 0.1px;
+  }
+  .h3Ingred {
+    background-color: rgb(255, 240, 221);
+    width: 120px;
+    height: 30px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+  #ingred {
+    text-align: center;
+    margin-top: 2px;
+  }
+  .ingredlist {
+    font-weight: bold;
+    margin-left: 25px;
+    font-size: larger;
+  }
+  .imgetimer{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  #timer{
+    width: 300px;
+  }
+  .dirlist {
+    margin-left: 25px;
+    text-align: left;
+    font-size: larger;
+    font-weight: bold;
+  }
+  
